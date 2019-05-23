@@ -1,0 +1,3 @@
+1.-Podemos cambiar la etiqueta "em" dando click en el y presionando
+control+D y colcarle "b" o "strong".
+2.- No es recomendable hacer uso de un mismo id.
